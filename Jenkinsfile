@@ -14,6 +14,6 @@ def configMap = [
 ]
 
 
-S3upload configMap
+s3Upload configMap
 
 
